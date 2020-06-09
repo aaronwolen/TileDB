@@ -54,6 +54,7 @@
 * Allow errors to be show in cmake super build [#1658](https://github.com/TileDB-Inc/TileDB/pull/1658)
 * Properly check vacuum files and limit fragment loading [#1661](https://github.com/TileDB-Inc/TileDB/pull/1661)
 * Fix edge case where consolidated but unvacuumed array can have coordinates report twice [#1662](https://github.com/TileDB-Inc/TileDB/pull/1662)
+* The C++ Attribute::create API now correctly builds from an STL array [#1670](https://github.com/TileDB-Inc/TileDB/pull/1670)
 
 ## API additions
 
